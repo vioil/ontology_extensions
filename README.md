@@ -1,8 +1,6 @@
-Local Northwestern VIVO ontology containing extensions to accommodate National Library of Medicine publication types. 
+###Local Northwestern VIVO ontology containing extensions to accommodate National Library of Medicine publication types. 
 
-
-
-Classes available in this version are:
+####Classes available in this version are:
 
 Autobiography (vlocal)
 
@@ -53,12 +51,7 @@ Class Group:	research
 Ontology:	Vlocal
 
 
-
-
-
-Data Properties:
-
-
+####Data Properties:
 
 abstractID (vlocal)
 
@@ -139,4 +132,3 @@ Local Name:	peopleID (vlocal)
 Group:	identity
 
 Domain Class:	Person (foaf) Range Class:none
-

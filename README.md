@@ -1,134 +1,123 @@
-###Local Northwestern VIVO ontology containing extensions to accommodate National Library of Medicine publication types. 
+###VIVO ontology containing extensions to accommodate National Library of Medicine publication types. 
 
 ####Classes available in this version are:
 
-Autobiography (vlocal)
-
-Class Group:	research
-
-Ontology:	Vlocal
-
-Bibliography (vlocal)
-
-Class Group:	research
-
-Ontology:	Vlocal
-
-Biography (vlocal)
-
-Class Group:	research
-
-Ontology:	Vlocal
-
-CaseReports (vlocal)
-
-Class Group:	research
-
-Ontology:	Vlocal
-
-Comparative Study (vlocal)
-
-Class Group:	research
-
-Ontology:	Vlocal
-
-ControlledClinicalTrial (vlocal)
-
-Class Group:	research
-
-Ontology:	Vlocal
-
-Directory (vlocal)
-
-Class Group:	research
-
-Ontology:	Vlocal
-
-EvaluationStudy (vlocal)
+**Autobiography (vlocal)**
 
 Class Group:	research
 
 Ontology:	Vlocal
 
 
-####Data Properties:
+**Bibliography (vlocal)**
 
-abstractID (vlocal)
+Class Group:	research
 
-Local Name:	abstractID (vlocal)
+Ontology:	Vlocal
 
-Group:	identity
 
-Domain Class:	Abstract (vivo) Range Class:none
+**Biography (vlocal)**
 
-departmentID (vlocal)
+Class Group:	research
 
-Local Name:	departmentID (vlocal)
+Ontology:	Vlocal
 
-Group:	identity
 
-Domain Class:	Organization (foaf) Range Class:none
+**CaseReports (vlocal)**
 
-divisionID (vlocal)
+Class Group:	research
 
-Local Name:	divisionID (vlocal)
+Ontology:	Vlocal
 
-Group:	identity
 
-Domain Class:	Organization (foaf) Range Class:none
+**Comparative Study (vlocal)**
 
-fullAuthorList (vlocal)
+Class Group:	research
 
-Local Name:	fullAuthorList (vlocal)
+Ontology:	Vlocal
 
-Group:	overview
 
-Domain Class:	Document (bibo) Range Class:none
+**ControlledClinicalTrial (vlocal)**
 
-hrID (vlocal)
+Class Group:	research
 
-Local Name:	hrID (vlocal)
+Ontology:	Vlocal
 
-Group:	identity
 
-Domain Class:	Person (foaf) Range Class:none
+**Dictionary**
 
-medlineCategory (vlocal)
+Class Group:	research
 
-Local Name:	medlineCategory (vlocal)
+Ontology:	Vlocal
 
-Group:	research
 
-Domain Class:	Document (bibo) Range Class:none
+**Directory (vlocal)**
 
-meshTerms (vlocal)
+Class Group:	research
 
-Local Name:	meshTerms (vlocal)
+Ontology:	Vlocal
 
-Group:	research
 
-Domain Class:	Document (bibo) Range Class:none
+**Duplicate Publication (vlocal)**
 
-netID (vlocal)
+Class Group:	research
 
-Local Name:	netID (vlocal)
+Ontology:	Vlocal
 
-Group:	identity
 
-Domain Class:	Person (foaf) Range Class:none
+**EvaluationStudy (vlocal)**
 
-orgID (vlocal)
+Class Group:	research
 
-Local Name:	orgID (vlocal)
+Ontology:	Vlocal
 
-Group:	identity
 
-Domain Class:	Organization (foaf) Range Class:none
+**InteractiveTutorial (vlocal)**
 
-peopleID (vlocal)
+Class Group:	research
 
-Local Name:	peopleID (vlocal)
+Ontology:	Vlocal
 
-Group:	identity
 
-Domain Class:	Person (foaf) Range Class:none
+**Lectures (vlocal)**
+
+Class Group: events
+
+Ontology:	Vlocal
+
+
+**Meta-Analysis (vlocal)**
+
+*An overview of clinical trials*
+Class Group:	research
+
+Ontology:	Vlocal
+
+
+**Multicenter Study (vlocal)
+
+*Work consisting of a controlled study executed by several cooperating institutions.*
+Class Group:	research
+
+Ontology:	Vlocal
+
+
+**Newspaper Article (vlocal)**
+
+Class Group:	research
+
+Ontology:	Vlocal
+
+
+**Patient Education Handout (vlocal)**
+
+Class Group:	research
+
+Ontology:	Vlocal
+
+
+**Technical Report (vlocal)**
+
+Class Group:	research
+
+Ontology:	Vlocal
